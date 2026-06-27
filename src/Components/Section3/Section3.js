@@ -1,4 +1,4 @@
-import SectionsTabs from "./SectionsTabs";
+
 import { useState } from "react";
 
 
